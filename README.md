@@ -16,3 +16,6 @@ Neste desafio, foi praticado conhecimentos em:
 ## Layout Base:
 
 ![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-11/image.png)
+
+**Para ver o resultado que obtive, e só clicar no link abaixo**
+https://wrtinho.github.io/IMDb-Front-end/public/index.html
